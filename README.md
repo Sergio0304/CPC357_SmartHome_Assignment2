@@ -177,22 +177,7 @@ This project supports **SDG 11** by:
 
 ---
 
-## ▶️ Demo Video
-📺 **YouTube Link:** *(Add your video link here)*  
 
----
-
-## 📁 Repository Structure
-├── Smart_Door/
-│ └── Security_Door.ino
-├── AI_Window/
-│ └── AI_Window.ino
-├── Node-RED/
-│ └── flows.json
-├── README.md
-
-yaml
-Copy code
 
 ---
 
